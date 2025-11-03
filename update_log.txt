@@ -1,0 +1,15 @@
+[31/10/2025 00:02:13] New donor registered: D1 - POOJA SINGH (O+)
+[31/10/2025 00:03:28] Donation processed: 4 units of O+ from POOJA SINGH (D1)
+[31/10/2025 00:13:04] Donor records saved. Total: 1
+[31/10/2025 00:13:04] Accepter records saved. Total: 0
+[31/10/2025 00:13:04] Donor records saved. Total: 1
+[31/10/2025 00:13:04] Accepter records saved. Total: 0
+[31/10/2025 00:15:33] New donor registered: D2 - Pooja Singh (o+)
+[31/10/2025 00:17:13] New donor registered: D3 - Goldi Singh  (a+)
+[31/10/2025 00:19:49] New donor registered: D4 - Avnit Singh (A-)
+[31/10/2025 00:21:48] Donation processed: 1 units of a+ from Goldi Singh  (D3)
+[31/10/2025 00:21:48] Donor records saved. Total: 4
+[31/10/2025 00:21:48] Accepter records saved. Total: 0
+[31/10/2025 00:21:48] Donor records saved. Total: 4
+[31/10/2025 00:21:48] Accepter records saved. Total: 0
+[03/11/2025 14:53:40] New donor registered: D1 - Pooja Singh (o+)
